@@ -3,15 +3,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Communication
+    institution: University of Pennsylvania
+    year: 2022 (expected)
+  - course: MA in Communication
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2018
+  - course: BA in Communication
+    institution: Universidad de San Andres
+    year: 2013
 email: ""
 highlight_name: false
 interests:
@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Pennsylvania
+  url: https://www.upenn.edu/
+role: Ph.D. Candidate in Communication
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,16 +31,16 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/wagnercelest
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.ar/citations?user=fUa24iAAAAAJ&hl=es&inst=15561263346091999511&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/celestewagner
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/maría-celeste-wagner-1117b139
 superuser: true
 title: Nelson Bighetti
 ---
