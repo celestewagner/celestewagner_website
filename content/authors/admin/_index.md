@@ -42,7 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/maría-celeste-wagner-1117b139
 superuser: true
-title: Celeste Wagner
+title: Maria Celeste Wagner
 ---
 
 I am a Ph.D. candidate at the [Annenberg School for Communication](https://www.asc.upenn.edu/) and a doctoral fellow at the [Center for Advanced Research in Global Communication](https://www.asc.upenn.edu/research/centers/center-for-advanced-research-in-global-communication), both at the University of Pennsylvania. I received my Licenciatura (BA) in Communication in 2013 from [Universidad de San Andrés](https://udesa.edu.ar/) in Argentina, my home country, and a master's in Communication in 2018 from the Annenberg School at the University of Pennsylvania. 
