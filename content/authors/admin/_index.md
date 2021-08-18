@@ -7,7 +7,7 @@ education:
     institution: University of Pennsylvania
     year: 2022 (expected)
   - course: MA in Communication
-    institution: Massachusetts Institute of Technology
+    institution: University of Pennsylvania
     year: 2018
   - course: BA in Communication
     institution: Universidad de San Andres
