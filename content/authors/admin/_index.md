@@ -61,4 +61,4 @@ Among other appointments, I am a member of the organizing committee of the [“D
 
 
 
-{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/dcv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
