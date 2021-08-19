@@ -9,6 +9,6 @@ image:
 publication: "*Revista Aguinaldo*"
 publication_short: "*Revista Aguinaldo*"
 links:
-- name: "URL"
+- name: "Link to Revista Aguinaldo"
   url: "https://www.aguinaldorevista.com.ar/"
 ---

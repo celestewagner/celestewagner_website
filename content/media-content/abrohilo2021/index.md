@@ -9,6 +9,6 @@ image:
   preview_only: true
 publication: "*Abro Hilo*"
 links:
-- name: "URL"
+- name: "Link to Abro Hilo"
   url: "https://abrohilo.org/violencia-genero-medios/"
 ---

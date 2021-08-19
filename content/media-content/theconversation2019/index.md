@@ -9,6 +9,6 @@ image:
 publication: "*The Conversation*"
 publication_short: "*The Conversation*"
 links:
-- name: "URL"
+- name: "Link to The Conversation"
   url: "https://theconversation.com/democrat-or-republican-americans-are-angry-frustrated-and-overwhelmed-125699"
 --- 

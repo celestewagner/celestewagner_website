@@ -9,6 +9,6 @@ image:
 publication: "*Infobae*"
 publication_short: "*Infobae*"
 links:
-- name: "URL"
+- name: "Link to Infobae"
   url: https://www.infobae.com/america/opinion/2020/05/10/cuanto-les-creemos-a-las-noticias-falsas-en-whatsapp/"
 ---

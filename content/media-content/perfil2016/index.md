@@ -9,6 +9,6 @@ image:
 publication: "*Perfil*"
 publication_short: "*Perfil*"
 links:
-- name: "URL"
+- name: "Link to Perfil"
   url: "https://www.perfil.com/noticias/elobservador/lazaro-baez-vs-panama-papers-una-cobertura-muy-desigual-20160520-0061.phtml"
 ---

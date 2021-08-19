@@ -9,6 +9,6 @@ image:
 publication: "*Revista Anfibia*"
 publication_short: "*Revista Anfibia*"
 links:
-- name: "URL"
+- name: "Link to Revista Anfibia"
   url: "http://revistaanfibia.com/ensayo/clicks-modernos/"
 ---

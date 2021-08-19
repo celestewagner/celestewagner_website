@@ -9,6 +9,6 @@ image:
 publication: "*First Draft*"
 publication_short: "*First Draft*"
 links:
-- name: "URL"
+- name: "Link to First Draft"
   url: "https://firstdraftnews.org/articles/when-it-comes-to-scientific-information-whatsapp-users-in-argentina-are-not-fools/"
 ---

@@ -9,6 +9,6 @@ image:
 publication: "*Infobae*"
 publication_short: "*Infobae*"
 links:
-- name: "URL"
+- name: "Link to Infobae"
   url: "https://www.infobae.com/america/eeuu/2019/10/30/democratas-o-republicanos-los-estadounidenses-estan-enojados-frustrados-y-abrumados/"
 ---

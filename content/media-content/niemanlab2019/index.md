@@ -9,6 +9,6 @@ image:
 publication: "*NiemanLab*"
 publication_short: "*NiemanLab*"
 links:
-- name: "URL"
+- name: "Link to NiemanLab"
   url: "https://www.niemanlab.org/2019/10/expect-impeachment-to-be-catnip-for-news-junkies-but-also-a-boost-for-news-avoidance/"
 ---
