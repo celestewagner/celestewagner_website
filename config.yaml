@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Celeste Wagner # Website name
 baseurl: 'https://celestewagner.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Celeste Wagner'
 
 ############################
 ## LANGUAGE
