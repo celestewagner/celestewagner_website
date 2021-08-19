@@ -3,7 +3,7 @@ date: "2019"
 lastmod: "2021-01-09"
 title: "Critical Approaches to Popular Culture - University of Pennsylvania"
 linktitle: Overview
-summary: "2019. Teaching Assistant. Instructor Prof. Felicity H. Paxton"
+summary: "2019. Teaching Assistant. Instructor Prof. Felicity H. Paxton."
 toc: false
 draft: false
 menu:

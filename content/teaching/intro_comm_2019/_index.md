@@ -3,7 +3,7 @@ date: "2019-09-01"
 lastmod: "2019-01-09"
 title: "Introduction to Communication - University of Pennsylvania"
 linktitle: Overview
-summary: "2019. Course co-developer & co-instructor"
+summary: "2019. Course co-developer & co-instructor."
 toc: false
 draft: false
 menu:
