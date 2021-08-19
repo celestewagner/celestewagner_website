@@ -15,4 +15,3 @@ weight: 50
 ---
 
 
-{{% staticref "uploads/syllabus_pol345_fall2018.pdf" "newtab" %}}View syllabus{{% /staticref %}}

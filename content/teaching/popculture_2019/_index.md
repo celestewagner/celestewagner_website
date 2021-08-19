@@ -11,5 +11,5 @@ menu:
     name: Overview
     weight: 10
 type: book
-weight: 20
+weight: 30
 ---
