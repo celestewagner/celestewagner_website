@@ -11,4 +11,4 @@ publication_short: "*The Conversation*"
 links:
 - name: "URL"
   url: "https://theconversation.com/democrat-or-republican-americans-are-angry-frustrated-and-overwhelmed-125699"
----
+--- 
