@@ -35,19 +35,19 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.ar/citations?user=fUa24iAAAAAJ&hl=es&inst=15561263346091999511&oi=ao
-- icon: github
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/celestewagner
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/maría-celeste-wagner-1117b139
+  link: https://orcid.org/0000-0002-8559-8202
+- icon: publons
+  icon_pack: fas
+  link: https://publons.com/researcher/3638120/maria-celeste-wagner/
 superuser: true
-title: Maria Celeste Wagner
+title: María Celeste Wagner
 ---
 
 I am a Ph.D. candidate at the [Annenberg School for Communication](https://www.asc.upenn.edu/) and a doctoral fellow at the [Center for Advanced Research in Global Communication](https://www.asc.upenn.edu/research/centers/center-for-advanced-research-in-global-communication), both at the University of Pennsylvania. I received my Licenciatura (BA) in Communication in 2013 from [Universidad de San Andrés](https://udesa.edu.ar/) in Argentina, my home country, and a master's in Communication in 2018 from the Annenberg School at the University of Pennsylvania. 
 
-From a mixed-methods and comparative approach, I study media reception and influence around political and social issues, particularly those related to intersecting gender inequalities in the Americas. Fieldwork for my research has been conducted in Argentina and the United States. To understand these processes, I primarily draw from survey, experimental, and interviewing methods. 
+From a mixed methods and comparative approach, I study media reception and influence around political and social issues, particularly those related to intersecting gender inequalities in the Americas. To understand these processes, I primarily draw from survey, experimental, and interviewing methods. Fieldwork for my research has been conducted in Argentina and the United States.
 
 My dissertation analyzes some of the social consequences of the way the media talks about sexual and/or gender-based violence, abuse, and harassment in Argentina and the United States today. Through online survey experiments, I first analyze how representative audiences in both countries respond to news about workplace harassment when harm is done to women from different ethnic and class backgrounds. Second, I interview survey respondents to explore possible causal mechanisms that might explain the quantitative findings. Third, I conducted more than fifty interviews with leaders in gender equality organizations in both countries to understand expert views on contemporary issues of communication, gender and social change.
 

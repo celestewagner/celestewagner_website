@@ -38,4 +38,4 @@ design:
   view: 2
 ---
 
-See my research projects and working papers below. Drafts available upon request.
+See my publications and works in progress below. Drafts available upon request.
