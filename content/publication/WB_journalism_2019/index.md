@@ -9,6 +9,6 @@ featured: false
 image:
   preview_only: true
 publication: "*Journalism*"
-url_pdf: "https://doi.org/10.1177/1464884919878545"
+#url_pdf: "https://doi.org/10.1177/1464884919878545"
 doi: "10.1177/1464884919878545"
 ---
