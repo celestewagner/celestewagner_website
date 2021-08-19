@@ -1,12 +1,14 @@
 ---
-title: "Why does the way gender-based violence is covered in
-the media matter? [in Spanish]"
-date: 2021-03-13
-publishDate: 2021-03-13
-authors: ["María Celeste Wagner"]
+title: "How much do we believe fake news on WhatsApp? [in Spanish]"
+date: 2019-10-30
+publishDate: 2019-10-30
+authors: ["María Celeste Wagner", "Pablo Boczkowski"]
 publication_types: ["0"]
 image:
   preview_only: true
-publication: "*Abro Hilo*"
-url: "www.abrohilo.org/violencia-genero-medios/"
+publication: "*NiemanLab*"
+publication_short: "*NiemanLab*"
+links:
+- name: "URL"
+  url: "https://www.niemanlab.org/2019/10/expect-impeachment-to-be-catnip-for-news-junkies-but-also-a-boost-for-news-avoidance/"
 ---

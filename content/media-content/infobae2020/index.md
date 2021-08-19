@@ -1,12 +1,14 @@
 ---
-title: "Why does the way gender-based violence is covered in
-the media matter? [in Spanish]"
-date: 2021-03-13
-publishDate: 2021-03-13
-authors: ["María Celeste Wagner"]
+title: "How much do we believe fake news on WhatsApp? [in Spanish]"
+date: 2020-05-10
+publishDate: 2020-05-10
+authors: ["María Celeste Wagner", "Eugenia Mitchelstein", "Pablo Boczkowski"]
 publication_types: ["0"]
 image:
   preview_only: true
-publication: "*Abro Hilo*"
-url: "www.abrohilo.org/violencia-genero-medios/"
+publication: "*Infobae*"
+publication_short: "*Infobae*"
+links:
+- name: "URL"
+  url: https://www.infobae.com/america/opinion/2020/05/10/cuanto-les-creemos-a-las-noticias-falsas-en-whatsapp/"
 ---

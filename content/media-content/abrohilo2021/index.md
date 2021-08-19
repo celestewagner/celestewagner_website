@@ -8,5 +8,6 @@ publication_types: ["0"]
 image:
   preview_only: true
 publication: "*Abro Hilo*"
-url: "www.abrohilo.org/violencia-genero-medios/"
+- name: "URL"
+  url: "www.abrohilo.org/violencia-genero-medios/"
 ---
