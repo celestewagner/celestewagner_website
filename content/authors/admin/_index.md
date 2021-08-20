@@ -38,9 +38,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-8559-8202
-- icon: publons
-  icon_pack: fas
-  link: https://publons.com/researcher/3638120/maria-celeste-wagner/
+- icon: university
+  icon_pack: fa
+  link: https://www.asc.upenn.edu/people/graduate-student/maria-celeste-wagner
 superuser: true
 title: María Celeste Wagner
 ---
