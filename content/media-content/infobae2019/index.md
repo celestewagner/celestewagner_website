@@ -1,5 +1,5 @@
 ---
-title: "“Democrats or Republicans, Americans are angry, frustrated and overwhelmed [in Spanish]"
+title: "Democrats or Republicans, Americans are angry, frustrated and overwhelmed [in Spanish]"
 date: 2019-10-30
 publishDate: 2019-10-30
 authors: ["María Celeste Wagner", "Pablo Boczkowski"]
