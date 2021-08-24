@@ -1,5 +1,5 @@
 ---
-title: "“When it comes to scientific information, WhatsApp users in Argentina are not fools."
+title: "When it comes to scientific information, WhatsApp users in Argentina are not fools."
 date: 2020-05-07
 publishDate: 2020-05-07
 authors: ["María Celeste Wagner", "Eugenia Mitchelstein", "Pablo Boczkowski"]
