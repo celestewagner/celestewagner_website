@@ -1,5 +1,5 @@
 ---
-title: "Political News and Discourse in the US. Democrats & Republicans Are Both Upset."
+title: "Political news and discourse in the US. Democrats & Republicans are both upset."
 date: 2019-11-04
 publishDate: 2019-11-04
 authors: ["B. DePaulo"]
