@@ -1,5 +1,5 @@
 ---
-title: For many Americans, talking about the news has become synonymous with talking about President Trump"
+title: "For many Americans, talking about the news has become synonymous with talking about President Trump"
 date: 2020-01-13
 publishDate: 2020-01-13
 authors: ["Eric Dolan"]

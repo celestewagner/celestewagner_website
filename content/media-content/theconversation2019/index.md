@@ -1,5 +1,5 @@
 ---
-title: "“Democrat or Republican, Americans are angry, frustrated and overwhelmed"
+title: "Democrat or Republican, Americans are angry, frustrated and overwhelmed"
 date: 2019-10-30
 publishDate: 2019-10-30
 authors: ["María Celeste Wagner", "Pablo Boczkowski"]

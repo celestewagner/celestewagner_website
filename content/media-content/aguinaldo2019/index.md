@@ -1,5 +1,5 @@
 ---
-title: "“Nothing new under the sun or why the internet (almost) didn’t change things? [in Spanish]"
+title: "Nothing new under the sun or why the internet (almost) didn’t change things? [in Spanish]"
 date: 2019-12-01
 publishDate: 2019-12-01
 authors: ["María Celeste Wagner"]

@@ -1,5 +1,5 @@
 ---
-title: “Lázaro Báez vs. Panama Papers, an unequal coverage [in Spanish]”
+title: "Lázaro Báez vs. Panama Papers, an unequal coverage [in Spanish]"
 date: 2016-05-21
 publishDate: 2016-05-21
 authors: ["Pablo Boczkowski","Eugenia Mitchelstein","María Celeste Wagner"]

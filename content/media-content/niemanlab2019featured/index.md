@@ -1,5 +1,5 @@
 ---
-title: "“Reading political news in the age of Trump leaves
+title: "Reading political news in the age of Trump leaves
 people stressed, angry, and overwhelmed."
 date: 2019-09-30
 publishDate: 2019-09-30
