@@ -8,9 +8,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: Work in Progress
+title: Books
 subtitle: ''
 
 content:
@@ -26,7 +26,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: "3"
+    publication_type: "5"
     author: ''
     exclude_featured: false
 design: 
