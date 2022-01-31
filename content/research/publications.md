@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Publications
+title: Articles
 subtitle: ''
 
 content:
@@ -38,4 +38,4 @@ design:
   view: 2
 ---
 
-See my publications and works in progress below. Drafts available upon request.
+See my publications and work in progress below. Drafts available upon request.
