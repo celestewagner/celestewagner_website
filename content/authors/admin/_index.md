@@ -45,7 +45,7 @@ superuser: true
 title: María Celeste Wagner
 ---
 
-I am a Ph.D. candidate at the [Annenberg School for Communication](https://www.asc.upenn.edu/) and a doctoral fellow at the [Center for Advanced Research in Global Communication](https://www.asc.upenn.edu/research/centers/center-for-advanced-research-in-global-communication), both at the University of Pennsylvania. I received my Licenciatura (BA) in Communication in 2013 from [Universidad de San Andrés](https://udesa.edu.ar/) in Argentina, my home country, and a master's in Communication in 2018 from the Annenberg School at the University of Pennsylvania. 
+I am I am a Ph.D. candidate at the [Annenberg School for Communication](https://www.asc.upenn.edu/) and a doctoral fellow at the [Center for Advanced Research in Global Communication](https://www.asc.upenn.edu/research/centers/center-for-advanced-research-in-global-communication), both at the University of Pennsylvania. I received my Licenciatura (BA) in Communication in 2013 from [Universidad de San Andrés](https://udesa.edu.ar/) in Argentina, my home country, and a master's in Communication in 2018 from the Annenberg School at the University of Pennsylvania. 
 
 From a mixed methods and comparative approach, I study media reception and influence around political and social issues, particularly those related to intersecting gender inequalities in the Americas. To understand these processes, I primarily draw from survey, experimental, and interviewing methods. Fieldwork for my research has been conducted in Argentina and the United States.
 
