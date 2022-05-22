@@ -1,5 +1,5 @@
 ---
-title: "How Citizens Respond to a Sexual Misconduct Allegation Made in a Partisan Context"
+title: "How Citizens Respond to a Sexual Misconduct Allegation in a Partisan Context"
 date: 2022-05-20
 authors: ["Jin Woo Kim", "María Celeste Wagner"]
 publication_types: ["3"]
