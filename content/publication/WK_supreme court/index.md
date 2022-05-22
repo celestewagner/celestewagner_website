@@ -1,12 +1,11 @@
 ---
-title: "Watching Turkish Television Drama in Argentina:
-Entangled Proximities in Global Media Flows"
-date: 2022-01-25
-authors: ["María Celeste Wagner", "Marwan Kraidy"]
+title: "Gender Politics and the Legitimacy of the Supreme Court in the U.S."
+date: 2022-05-20
+authors: ["Jin Woo Kim", "María Celeste Wagner"]
 publication_types: ["3"]
-abstract: "For decades, the theory of cultural proximity, which states that audiences have a preference towards culturally proximal content (Straubhaar, 1991), has remained as a relevant framework to explain audience preferences. However, recent South-to-South intercultural media flows have challenged its contemporary applicability. In this article, we focus on one of the most recent, intriguing and still understudied developments of this phenomenon: the success of Turkish television dramas (dizi) in Latin America, the land where the telenovela was born. To explore this, we draw from twenty-five interviews conducted in 2018 and 2019 in Argentina. We develop the notion of “entangled proximities” to make sense of different viewership positionalities towards this genre, which intersect issues of gender, age, class, culture, language, ideology, and national identity, as well as issues of nostalgia, modernity, localism and cosmopolitan predispositions. Despite South-to-South differences, we show that audiences prefer the content that allows them to experience desired proximities."
+abstract: "We track the public’s attitudes toward the Supreme Court of the United States across three major events that have important implications for gender politics: the confirmation of Brett Kavanaugh, and the rulings on the abortion ban in Texas, and the upcoming decision on Roe vs. Wade.."
 featured: true
 image:
   preview_only: true
-publication: "Under Review"
+publication: "Work in Progress"
 ---
