@@ -21,7 +21,7 @@ highlight_name: false
 organizations:
 - name: University of Pennsylvania
   url: https://www.upenn.edu/
-role: Ph.D. Candidate in Communication
+role: Ph.D. in Communication
 social:
 - icon: envelope
   icon_pack: fas
