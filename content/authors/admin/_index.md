@@ -19,9 +19,9 @@ highlight_name: false
 #- Computational Linguistics
 #- Information Retrieval
 organizations:
-- name: University of Pennsylvania
-  url: https://www.upenn.edu/
-role: Ph.D. in Communication
+- name: University of Florida
+  url: https://www.ufl.edu
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,9 +49,9 @@ I am an Assistant Professor in the Department of Journalism at the [College of J
 
 From a mixed methods and comparative approach, I study media reception and influence around political and social issues, particularly those related to intersecting gender inequalities in the Americas. To understand these processes, I primarily draw from surveys, experiments, and qualitative interviewing methods. Fieldwork for my research has been conducted in Argentina and the United States. 
 
-Some of my recent publications have explored the emotional experiences, interpretations, and practices of consuming news and perceived misinformation during times of political polarization in the U.S. ([Journalism](https://journals.sagepub.com/doi/abs/10.1177/1464884919878545), [Digital Journalism](https://www.tandfonline.com/doi/abs/10.1080/21670811.2019.1653208)); the role of the perceived gender of journalists on the promotion of ideas around the severity of sexual harassment ([Cuadernos.info](https://scielo.conicyt.cl/scielo.php?pid=S0719-367X2019000100043&script=sci_arttext)); and the experiences of watching television entertainment in Argentina and the United States, with a focus on transcultural issues of identity, as well as other differences based on regional inequalities ([International Journal of Communication](https://ijoc.org/index.php/ijoc/article/view/14191)). 
+Some of my recent publications have explored the emotional experiences, interpretations, and practices of consuming news and perceived misinformation during times of political polarization in the U.S. ([Journalism](https://journals.sagepub.com/doi/abs/10.1177/1464884919878545), [Digital Journalism](https://www.tandfonline.com/doi/abs/10.1080/21670811.2019.1653208)); the role of the perceived gender of journalists on the promotion of ideas around the severity of sexual harassment ([Cuadernos.info](https://scielo.conicyt.cl/scielo.php?pid=S0719-367X2019000100043&script=sci_arttext)); and the experiences of watching television entertainment in Argentina and the United States ([International Journal of Communication](https://ijoc.org/index.php/ijoc/article/view/14191)). 
 
-With [E. Mitchelstein](https://udesa.edu.ar/profesores/eugenia-mitchelstein), [P. J. Boczkowski](https://communication.northwestern.edu/faculty/pablo-boczkowski/), and [F. Suenzo](https://facundosuenzo.com), we are currently working on a book based on interviews, surveys and experiments during the Argentine 2019 elections, titled The Patina of Distrust: Misinformation in a Context of Generalized Skepticism, under contract with The MIT Press. Other ongoing projects study the role of survivor/victim's ethno-racial and class backgrounds on news audiences responses in Argentina and the U.S.; anti-gender-based violence advocates' interpretations of news media practices in the representation of violence in Argentina and the U.S.; the role of audience's partisanship and gender in their assessment of sexual harassment scandals involving politicians in the U.S. (with [Jin Woo Kim] (https://jinwookimqssdotcom.wordpress.com)), among others. 
+With [E. Mitchelstein](https://udesa.edu.ar/profesores/eugenia-mitchelstein), [P. J. Boczkowski](https://communication.northwestern.edu/faculty/pablo-boczkowski/), and [F. Suenzo](https://facundosuenzo.com), we are working on a bookmanuscript based on interviews, surveys and experiments during the Argentine 2019 elections, titled The Patina of Distrust: Misinformation in a Context of Generalized Skepticism, under contract with [The MIT Press](https://mitpress.mit.edu). Other ongoing projects study the role of survivor/victim's ethno-racial and class backgrounds on news audiences responses in Argentina and the U.S.; anti-gender-based violence advocates' interpretations of news media representations of sexist violence in Argentina and the U.S.; the role of audience's partisanship and gender in their assessment of sexual harassment scandals involving politicians in the U.S. (with [Jin Woo Kim] (https://jinwookimqssdotcom.wordpress.com)), among others. 
 
 In both Argentina and the United States, I have taught introduction to communication, history of the media, social scientific methods, and critical approaches to popular culture. In 2015, I received a Teaching Award at Universidad de San Andrés, given to the best Teaching Assistant at the university.
 
