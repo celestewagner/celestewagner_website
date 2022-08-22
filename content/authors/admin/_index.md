@@ -40,12 +40,12 @@ social:
   link: https://orcid.org/0000-0002-8559-8202
 - icon: university
   icon_pack: fa
-  link: https://www.asc.upenn.edu/people/graduate-student/maria-celeste-wagner
+  link: https://www.jou.ufl.edu/staff/maria-celeste-wagner/
 superuser: true
 title: María Celeste Wagner
 ---
 
-I am an incoming Assistant Professor in the Department of Journalism at the [College of Journalism and Communications](https://www.jou.ufl.edu) at the [University of Florida](https://www.ufl.edu). I hold a Ph.D. in Communication from the [Annenberg School for Communication](https://www.asc.upenn.edu/) at the University of Pennsylvania. I received my Licenciatura (BA) in Communication in 2013 from [Universidad de San Andrés](https://udesa.edu.ar/) in Argentina, my home country.
+I am an Assistant Professor in the Department of Journalism at the [College of Journalism and Communications](https://www.jou.ufl.edu) at the [University of Florida](https://www.ufl.edu). I hold a Ph.D. in Communication from the [Annenberg School for Communication](https://www.asc.upenn.edu/) at the University of Pennsylvania. I received my Licenciatura (BA) in Communication from [Universidad de San Andrés](https://udesa.edu.ar/) in Argentina, my home country, and an MA in Communication at the University of Pennsylvania. 
 
 From a mixed methods and comparative approach, I study media reception and influence around political and social issues, particularly those related to intersecting gender inequalities in the Americas. To understand these processes, I primarily draw from surveys, experiments, and qualitative interviewing methods. Fieldwork for my research has been conducted in Argentina and the United States.
 
