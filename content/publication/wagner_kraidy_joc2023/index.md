@@ -9,4 +9,5 @@ featured: false
 image:
   preview_only: true
 publication: ""*Journal of Communication*"
+doi: "10.1080/21670811.2019.1653208"
 ---
