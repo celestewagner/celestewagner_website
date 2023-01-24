@@ -55,7 +55,7 @@ With [E. Mitchelstein](https://udesa.edu.ar/profesores/eugenia-mitchelstein), [P
 
 In both Argentina and the United States, I have taught introduction to communication, history of the media, social scientific methods, and critical approaches to popular culture. In 2015, I received a Teaching Award at Universidad de San Andrés, given to the best Teaching Assistant at the university. 
 
-Among other appointments, I am a member of the organizing committee of the [“Media & Communication in Global Latinidades” Pre-Conference at ICA](https://latinxlatammedia.com/); a faculty affiliate at the [Center for Latinx Digital Media at Northwestern University](https://ldm.soc.northwestern.edu); a research affiliate at the [Center for Media and Society in Argentina](https://udesa.edu.ar/meso-en/team), and a member of [Digital Journalism's](https://www.tandfonline.com/journals/rdij20) Editorial Board. 
+Among other appointments, I am a member of the organizing committee of the [“Media & Communication in Global Latinidades” Pre-Conference at ICA](https://latinxlatammedia.com/); a faculty affiliate at the [Center for Latinx Digital Media at Northwestern University](https://ldm.soc.northwestern.edu); a research affiliate at the [Center for Media and Society in Argentina](https://udesa.edu.ar/meso-en/team), and a member of [Digital Journalism](https://www.tandfonline.com/journals/rdij20)'s Editorial Board. 
 
 
 
