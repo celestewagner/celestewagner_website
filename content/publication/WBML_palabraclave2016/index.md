@@ -9,6 +9,6 @@ featured: false
 image:
   preview_only: true
 publication: "*Palabra Clave*"
-#url_pdf: "https://doi.org/10.5294/pacla.2016.19.4.4"
-doi: "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0122-82852016000401027"
+#url_pdf: "https://www.scielo.org.co/pdf/pacla/v19n4/0122-8285-pacla-19-04-01027.pdf"
+doi: "10.5294/pacla.2016.19.4.4"
 ---
