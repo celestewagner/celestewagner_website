@@ -1,5 +1,5 @@
 ---
-title: "Journalists’ gender and influence: effects on the perceived severity of sexual harassment"
+title: "Journalists’ Gender and Influence: Effects on the Perceived Severity of Sexual Harassment"
 date: 2019-04-17
 publishDate: 2019-04-17
 authors: ["María Celeste Wagner"]
