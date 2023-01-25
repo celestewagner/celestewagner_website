@@ -9,6 +9,6 @@ featured: false
 image:
   preview_only: true
 publication: "*International Journal of Communication*"
-#url_pdf: "https://ijoc.org/index.php/ijoc/article/download/14191/3343"
-doi: "https://ijoc.org/index.php/ijoc/article/download/14191/3343"
+#url_pdf: "https://ijoc.org/index.php/ijoc/article/view/14191/3343"
+doi: "1932–8036/20210005"
 ---
