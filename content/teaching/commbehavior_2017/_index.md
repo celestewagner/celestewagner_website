@@ -1,15 +1,15 @@
 ---
 date: "2017-09-01"
 lastmod: "2017-01-09"
-title: "Introduction to Communication Behavior - University of Pennsylvania"
+title: "Introduction to Communication Behavior - University of Pennsylvania (2017)"
 linktitle: Overview
-summary: "2017. Teaching Assistant. Instructor Prof. Amy Jordan." 
+summary: "Teaching Assistant. Instructor Prof. Amy Jordan." 
 toc: false
 draft: false
 menu:
   commbehavior_2017:
     name: Overview
-    weight: 10
+    weight: 1
 type: book
-weight: 30
+weight: 50
 ---
