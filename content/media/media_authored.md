@@ -38,4 +38,4 @@ design:
   view: 3
 ---
 
-See my publications and works in progress below. Drafts available upon request.
+See media publications of my authorship and coverage of my research.
