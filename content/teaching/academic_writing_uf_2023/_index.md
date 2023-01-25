@@ -3,7 +3,7 @@ date: "2023-01-25"
 lastmod: "2023-01-25"
 title: "MMC 6936: Academic Writing - University of Florida (2023)"
 linktitle: Overview
-summary: An introduction to the field of comparative politics and the comparative method. Required course for GWU PSC and IAFF majors.  
+summary: 
 toc: false
 draft: false
 menu:
