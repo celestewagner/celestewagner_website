@@ -16,4 +16,7 @@ weight: 10
 
 ## Course Description:
 
-This course will examine the ways in which the media represents various groups, identities, and issues, and how these representations can shape opinions and behaviors. We will analyze the power dynamics at play in the representation of intersecting issues related to gender, sexuality, ethnicity, racialization, class, nationality, culture, religion and ability from an international and global perspective. These issues will be examined in a variety of media contexts, including journalism, advertising, the entertainment industry, and sports, with a focus on both mainstream media representations and social media repercussions.
+This course will examine the ways in which the media represents various groups, identities, and issues, and how these representations can shape opinions and behaviors. We will analyze the power dynamics at play in the representation of intersecting issues related to gender, sexuality, ethnicity, racialization, class, nationality, culture, religion and disability from an international and global perspective. These issues will be examined in a variety of media contexts, including journalism, advertising, the entertainment industry, and sports, with a focus on both mainstream media representations and social media repercussions.
+
+
+{{< icon name="download" pack="fas" >}} See the {{< staticref "uploads/mmc2604.pdf" "newtab" >}}syllabus{{< /staticref >}}.
