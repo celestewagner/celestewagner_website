@@ -1,5 +1,5 @@
 ---
-title: "Angry, frustrated, and overwhelmed: The emotional experience of consuming news about President Trump"
+title: "Angry, Frustrated, and Overwhelmed: The Emotional Experience of Consuming News about President Trump"
 date: 2019-09-25
 publishDate: 2019-09-25
 authors: ["María Celeste Wagner", "Pablo Boczkowski"]
