@@ -34,7 +34,7 @@ social:
   link: https://twitter.com/wagnercelest
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.ar/citations?user=fUa24iAAAAAJ&hl=es&inst=15561263346091999511&oi=ao
+  link: https://scholar.google.com/citations?user=fUa24iAAAAAJ&hl=es&oi=ao 
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-8559-8202
