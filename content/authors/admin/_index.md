@@ -25,7 +25,7 @@ role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: /contact
 - display:
     header: true
   icon: twitter
