@@ -1,5 +1,5 @@
 ---
-title: "How much do we believe fake news on WhatsApp? [in Spanish]"
+title: "Expect impeachment to be catnip for news junkies — but also a boost for news avoidance"
 date: 2019-10-30
 publishDate: 2019-10-30
 authors: ["María Celeste Wagner", "Pablo Boczkowski"]
