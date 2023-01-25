@@ -1,6 +1,6 @@
 ---
 date: "2023-01-25"
-lastmod: "2023-01-25"
+lastmod: "2023-01-04"
 title: "MMC 2604: Media, Cultures, and Identity - University of Florida (2022-2023)"
 linktitle: Overview
 summary: Course developer and instructor. Introductory course for undergraduate students.    

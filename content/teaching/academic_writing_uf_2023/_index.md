@@ -1,6 +1,6 @@
 ---
 date: "2023-01-25"
-lastmod: "2023-01-25"
+lastmod: "2023-01-04"
 title: "MMC 6936: Academic Writing - University of Florida (2023)"
 linktitle: Overview
 summary: Course developer and instructor. Seminar for MA and PhD students. 
