@@ -1,5 +1,5 @@
 ---
-title: "The boomerang effect: innovation in the blogs of mainstream news sites, 2008–2012"
+title: "The Boomerang Effect: Innovation in the Blogs of Mainstream News Sites, 2008–2012"
 date: 2017-02-16
 publishDate: 2017-02-16
 authors: ["Eugenia Mitchelstein", "Pablo Boczkowski", "María Celeste Wagner"]
