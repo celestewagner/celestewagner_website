@@ -1,5 +1,5 @@
 ---
-title: "The Language of Race and Class in Argentina and the United States when Talking About Gender-Based Violence. Results from Qualitative Interviews with General Publics and Feminist Activists."
+title: "The Language of Race and Class in Argentina and the United States when Talking About Gender-Based Violence. Results from Qualitative Interviews with General Publics and Feminist Activists"
 date: 2023-01-19
 authors: ["María Celeste Wagner"]
 publication_types: ["3"]

@@ -1,5 +1,5 @@
 ---
-title: "A Feminist Pedagogy of Patience: Communication Against Gender-Based Violence in the Argentina of the Ni Una Menos and the United States of #MeToo."
+title: "A Feminist Pedagogy of Patience: Communication Against Gender-Based Violence in the Argentina of the Ni Una Menos and the United States of #MeToo"
 date: 2023-01-20
 authors: ["María Celeste Wagner"]
 publication_types: ["3"]
