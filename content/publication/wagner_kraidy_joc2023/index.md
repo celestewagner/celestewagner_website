@@ -1,6 +1,6 @@
 ---
-title: "Watching Turkish Television Dramas in Argentina: Entangled Proximities and Resigned Agency in Global Media Flows (forthcoming)"
-date: 2023-01-15
+title: "Watching Turkish Television Dramas in Argentina: Entangled Proximities and Resigned Agency in Global Media Flows"
+date: 2023-02-06
 publishDate: 2023-01-15
 authors: ["María Celeste Wagner", "Marwan Kraidy"]
 publication_types: ["2"]
@@ -9,5 +9,5 @@ featured: false
 image:
   preview_only: true
 publication: "*Journal of Communication*"
-doi: ""
+doi: "https://doi.org/10.1093/joc/jqad001"
 ---
