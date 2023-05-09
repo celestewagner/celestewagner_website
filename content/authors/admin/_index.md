@@ -45,7 +45,7 @@ superuser: true
 title: María Celeste Wagner
 ---
 
-I am an Assistant Professor in the Department of Journalism at the [College of Journalism and Communications](https://www.jou.ufl.edu) at the [University of Florida](https://www.ufl.edu). I received a Ph.D. in Communication from the [Annenberg School for Communication](https://www.asc.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu) in 2022. Previously, I obtained my Licenciatura (BA) in Communication from [Universidad de San Andrés](https://udesa.edu.ar/) in Argentina in 2013, my home country, and an MA in Communication at the University of Pennsylvania in 2018. 
+I am an Assistant Professor in the Department of Journalism at the [College of Journalism and Communications](https://www.jou.ufl.edu) at the [University of Florida](https://www.ufl.edu), where I am also an Affiliate Faculty of the [Center for Latin American Studies](https://www.latam.ufl.edu). I received a Ph.D. in Communication from the [Annenberg School for Communication](https://www.asc.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu) in 2022. Previously, I obtained my Licenciatura (BA) in Communication from [Universidad de San Andrés](https://udesa.edu.ar/) in Argentina in 2013, my home country, and an MA in Communication at the University of Pennsylvania in 2018. 
 
 I study processes of media reception and influence around political and social issues, particularly intersecting gender inequalities in the Americas. Methodologically, I draw from qualitative interviewing methods, surveys, experiments and comparative approaches. Fieldwork for my research has been conducted in Argentina and the United States. 
 
@@ -57,8 +57,6 @@ I currently teach an undergraduate class titled "Media, Cultures and Identity" a
 
 Among other appointments, I am a faculty affiliate at the [Center for Latinx Digital Media at Northwestern University](https://ldm.soc.northwestern.edu); a member of the organizing committee of the [“Media & Communication in Global Latinidades” Pre-Conference at ICA](https://latinxlatammedia.com/); a research affiliate at the [Center for Media and Society in Argentina](https://udesa.edu.ar/meso-en/team), and a member of [Digital Journalism](https://www.tandfonline.com/journals/rdij20)'s Editorial Board. 
 
-
-
-
+My pronouns are she/ella.
 
 {{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
