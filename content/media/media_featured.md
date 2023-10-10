@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Media Coverage of my Research
+title: Interviews or media coverage about my work
 subtitle: ""
 
 content:
