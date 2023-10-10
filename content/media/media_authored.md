@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Media Articles of my Authorship (selected)
+title: Media articles of my authorship (selected)
 subtitle: ''
 
 content:
@@ -38,4 +38,4 @@ design:
   view: 3
 ---
 
-See media publications of my authorship and coverage of my research.
+See media publications of my authorship, media interviews or other coverage of my research.
