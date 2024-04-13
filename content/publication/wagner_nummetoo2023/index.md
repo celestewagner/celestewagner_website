@@ -1,11 +1,14 @@
 ---
-title: "A Feminist Pedagogy of Patience: Communication Against Gender-Based Violence in the Argentina of the Ni Una Menos and the United States of #MeToo"
-date: 2023-01-20
+title: "Journalists’ Gender and Influence: Effects on the Perceived Severity of Sexual Harassment"
+date: 2019-04-17
+publishDate: 2024-04-12
 authors: ["María Celeste Wagner"]
-publication_types: ["3"]
-abstract: "Years after the emergence of Ni Una Menos in Argentina and  #MeToo in the United States, how do feminist activists and advocates who fight gender-based violence on the ground evaluate, challenge and construct media representations of this issue? To respond to this, I draw from 52 interviews with feminist activists and advocates who work against GBV in both countries. This paper adopts a cross-country comparative approach not only of feminist practices but also their evaluations of mainstream media in two countries that have witnessed some of the most impactful anti-violence feminist movements in recent years. In relation to media evaluations, findings show cross-country similarities—e.g., the prevalence of sensationalist, episodic frames—and differences, such as regarding the role assigned to language as transformational tool and in class and race considerations. While there are shared communication strategies, the more professional characteristics of U.S. participants translates into more expert media practices and rigorous engagements with concepts of journalistic objectivity and truth. Grounded in less professionalized infrastructures, in Argentina they engage in more flexible and political media interventions. I conclude by analyzing how these evaluations and strategies impact communication for gender equity."
-featured: true
+publication_types: ["2"]
+abstract: Contemporary activism media research, largely focused on digital media's technological and discursive aspects, often lacks comparative studies and tends to overlook institutional or cultural factors in communication for social change (CSC). This study addresses these gaps by examining advocates’ sensemaking and communication praxis in contexts shaped by different advocacy traditions and sociocultural understandings of inequality. Through an analysis of 52 semi-structured interviews with Argentine grassroots advocates and U.S. professional ones, this study reveals similar media assessments across cases yet with different intersectional emphases: class in Argentina and race in the United States. Cross-case divergencies emerge in advocates’ positionality toward institutions and in their representational strategies: While grassroots advocates act as pragmatic agents of change and adopt a flexible communication style described as a “pedagogy of patience,” professional ones act as epistemic experts who offer a feminist critique of journalistic objectivity. I reflect on how these findings attend overlooked factors in CSC.
+featured: false
 image:
   preview_only: true
-publication: "Work in Progress"
+publication: "*Journal of Communication*"
+#url_pdf: "https://doi.org/10.1093/joc/jqae016"
+doi: "https://doi.org/10.1093/joc/jqae016"
 ---
