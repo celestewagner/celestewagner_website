@@ -1,6 +1,6 @@
 ---
-title: "Journalists’ Gender and Influence: Effects on the Perceived Severity of Sexual Harassment"
-date: 2019-04-17
+title: "Shared struggles, divergent paths: a comparison of grassroots and professional feminist advocates’ communication for social change in Argentina and the United States"
+date: 2024-04-12
 publishDate: 2024-04-12
 authors: ["María Celeste Wagner"]
 publication_types: ["2"]
