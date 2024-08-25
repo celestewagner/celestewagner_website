@@ -19,8 +19,8 @@ highlight_name: false
 #- Computational Linguistics
 #- Information Retrieval
 organizations:
-- name: University of Florida
-  url: https://www.ufl.edu
+- name: Rutgers University
+  url: https://comminfo.rutgers.edu
 role: Assistant Professor
 social:
 - icon: envelope
@@ -40,7 +40,7 @@ social:
   link: https://orcid.org/0000-0002-8559-8202
 - icon: university
   icon_pack: fa
-  link: https://www.jou.ufl.edu/staff/maria-celeste-wagner/
+  link: https://comminfo.rutgers.edu/wagner-celeste
 superuser: true
 title: María Celeste Wagner
 ---
