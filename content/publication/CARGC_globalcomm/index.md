@@ -1,4 +1,4 @@
-
+---
 title: "Global communication as a standpoint: A critical engagement with research, pedagogy, and the profession through a global communication lens"
 date: 2024-09-
 publishDate: 2024-09-25
