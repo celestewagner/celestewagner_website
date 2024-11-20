@@ -1,5 +1,5 @@
 ---
-title: "Shared struggles, divergent paths: a comparison of grassroots and professional feminist advocates’ communication for social change in Argentina and the United States"
+title: "Shared Struggles, Divergent Paths: A Comparison of Grassroots and Professional Feminist Advocates’ Communication for Social Change in Argentina and the United States"
 date: 2024-04-12
 publishDate: 2024-04-12
 authors: ["María Celeste Wagner"]
